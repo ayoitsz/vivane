@@ -27,14 +27,16 @@
 }
 
 .name{
-    font-size: 37px;
+    font-size: 35px;
 
 
 }
 
 .nav-btn{
     border: 1px solid black;
-    padding: 8px;
+    padding: 8px 15px;
+    font-size: 16px;
+    background-color: white;
 
 }
 
@@ -42,7 +44,7 @@
     width: 120px;
 }
 .user{
-    width: 40px;
+    width: 50px;
 }
 .cont-quote{
     margin-top: 90px;
@@ -53,14 +55,33 @@
 .line-1 {
     height: 2px;
     background: black;
-    width: 40%;
+    width: 30%;
 
   }
 
 .centered-quote{
     display: flex;
     justify-content: center;
-    width: 300px;
+    width: 600px;
 }
 
+.quote{
+    font-size: 24px;
+    text-align: center;
+    padding: 10px;
+}
+
+.vzv{
+    margin-bottom: 20px;
+    font-size: 25px;
+font-weight: bolder;
+}
+
+.categories-mid{
+    margin-top: 90px;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    padding: 40px;
+}
 
